@@ -5,6 +5,9 @@ OBJETIVO: Implementação de um programa para manipular dados de um arquivo text
 Necessário instalar os seguintes pacotes no Python:
 
 !pip install faker
+
 !pip install matplotlib
+
 !pip install wordcloud
+
 !pip install num2words
